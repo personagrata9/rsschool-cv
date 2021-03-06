@@ -1,6 +1,6 @@
-Iryna Bakhur
+# Iryna Bakhur
 
-Contacts:
+## Contacts:
 
 **Phone:** +375291950999
 
@@ -8,32 +8,32 @@ Contacts:
 
 A begginer in IT with a firm desire to study, implement and create. Present goals are enhancing and developping new hard skills.
 
-Skill Highlights:
+## Skill Highlights:
 
 - Attention to details
 - Responsibility
 - Hight level of empathy
 - Markdown, HTML, CSS
 
-Code example:
+## Code example:
 
-Projects:
+## Projects:
 
 None
 
-Education:
+## Education:
 
 - Economist, International economic relations, Belarus State Economic University
 - Customs clearance specialist, Customs Logistics, Branch оf the BNTU "Intersectoral Institute for Staff Training and Retraining on Management and Personnel Development"
 
-Languages:
+## Languages:
 
 - Russian - Native
 - Belarusian - Native
 - English - Elementary
 - French - Beginner
 
-Hobbies:
+## Hobbies:
 
 - Yoga
 - Music
