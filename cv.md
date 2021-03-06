@@ -17,6 +17,18 @@ A begginer in IT with a firm desire to study, implement and create. Present goal
 
 ## Code example:
 
+```
+body {
+  box-sizing: border-box;
+  margin: 10px;
+  font-family: Verdana, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  background: lightgrey;
+  text-align: justify;
+}
+```
+
 ## Projects:
 
 None
